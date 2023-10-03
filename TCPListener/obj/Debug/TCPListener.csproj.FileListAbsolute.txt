@@ -5,3 +5,10 @@ C:\Users\W0474142\source\repos\TCPListener\obj\Debug\TCPListener.csproj.Assembly
 C:\Users\W0474142\source\repos\TCPListener\obj\Debug\TCPListener.csproj.CoreCompileInputs.cache
 C:\Users\W0474142\source\repos\TCPListener\obj\Debug\TCPListener.exe
 C:\Users\W0474142\source\repos\TCPListener\obj\Debug\TCPListener.pdb
+C:\Users\W0474142\source\repos\AdvancedOOP\TCPListener\bin\Debug\TCPListener.exe.config
+C:\Users\W0474142\source\repos\AdvancedOOP\TCPListener\bin\Debug\TCPListener.exe
+C:\Users\W0474142\source\repos\AdvancedOOP\TCPListener\bin\Debug\TCPListener.pdb
+C:\Users\W0474142\source\repos\AdvancedOOP\TCPListener\obj\Debug\TCPListener.csproj.AssemblyReference.cache
+C:\Users\W0474142\source\repos\AdvancedOOP\TCPListener\obj\Debug\TCPListener.csproj.CoreCompileInputs.cache
+C:\Users\W0474142\source\repos\AdvancedOOP\TCPListener\obj\Debug\TCPListener.exe
+C:\Users\W0474142\source\repos\AdvancedOOP\TCPListener\obj\Debug\TCPListener.pdb
