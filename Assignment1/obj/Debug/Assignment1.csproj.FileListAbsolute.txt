@@ -1,0 +1,10 @@
+C:\Users\W0474142\source\repos\AdvancedOOP\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\W0474142\source\repos\AdvancedOOP\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\W0474142\source\repos\AdvancedOOP\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\W0474142\source\repos\AdvancedOOP\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\W0474142\source\repos\AdvancedOOP\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\W0474142\source\repos\AdvancedOOP\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\W0474142\source\repos\AdvancedOOP\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\W0474142\source\repos\AdvancedOOP\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\W0474142\source\repos\AdvancedOOP\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\W0474142\source\repos\AdvancedOOP\Assignment1\obj\Debug\Assignment1.Chat.resources
