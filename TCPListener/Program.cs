@@ -55,13 +55,13 @@ namespace TCPListener
 
                         byte[] msg = System.Text.Encoding.ASCII.GetBytes(data);
 
-                        // send back respones
+                        // send back responses
 
                         stream.Write(msg, 0, msg.Length);
                         Console.WriteLine("Sent: {0}", data);
 
-                        client.Close();
                     }
+                    client.Close();
                 }
 
             } catch (SocketException e)
